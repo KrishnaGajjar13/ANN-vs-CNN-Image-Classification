@@ -1,4 +1,4 @@
-# Neural-Network-using-Pytorch
+# ANN-vs-CNN-Image-Classification
 
 This repository contains three different models for multi-class classification using PyTorch, all trained on the Fashion MNIST dataset. The models include an Artificial Neural Network (ANN), a custom Convolutional Neural Network (CNN), and a CNN model with pre-trained ResNet weights. The goal of the project is to practice neural network design and enhance model performance using various techniques.
 
